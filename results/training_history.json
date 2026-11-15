@@ -1,0 +1,26 @@
+{
+  "epochs": 2,
+  "batch_size": 128,
+  "learning_rate": 0.0001,
+  "validation_fraction": 0.1,
+  "seed": 42,
+  "initial_checkpoint": "pre-augmentation checkpoint",
+  "initial_validation_accuracy": 0.8679964539007092,
+  "best_validation_accuracy": 0.8704787234042554,
+  "train_loss": [
+    0.6716017340937405,
+    0.5929537254304187
+  ],
+  "train_accuracy": [
+    0.7855594956658787,
+    0.8048167848699763
+  ],
+  "validation_loss": [
+    0.38969842339238375,
+    0.38813743557490354
+  ],
+  "validation_accuracy": [
+    0.8703900709219858,
+    0.8704787234042554
+  ]
+}
